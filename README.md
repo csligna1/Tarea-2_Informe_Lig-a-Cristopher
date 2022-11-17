@@ -203,6 +203,12 @@ V=I*R
 
 **1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere**
 
+P = I^(2)R
+
+P = I^(2)R = (I * I)R = I(IR) = (IR)I 
+
+P = VI
+
 **3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**
 
 **5. ¿A cuántos watts equivalen 1000 J en 50 ms?**
@@ -254,7 +260,7 @@ V=I*R
 
 **4. VIDEO**
 
-https://youtu.be/6s15AGQGZSA 
+https://youtu.be/oABs34S9enI
 
 **5. CONCLUSIONES**
 
