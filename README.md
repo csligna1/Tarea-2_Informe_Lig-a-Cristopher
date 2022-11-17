@@ -4,16 +4,15 @@
 
 **1.1. Objetivo General:**
 
-Reconocer cantidades, unidades, y el funcionamiento de elementos eléctricos mediante esquemas interactivos, para la aplicación en circuitos eléctricos, y como bases para la práctica.
+Implementar la ley de ohm, y la potencia, en circuitos eléctricos mediante cálculos algebraicos, analizando cada uno de sus componentes, y verificando sus resultados, como bases para la aplicación en la práctica posterior del laboratorio.
 
 
 **1.2. Objetivos Específicos:**
 
-Aprender unidades de medición, notaciones, conversiones y prefijos, posteriormente utilizándolos en conceptos eléctricos.
+Definir conceptos eléctricos, complementando la teoría de la electrónica, en el análisis y comportamiento de un circuito.
 
-Definir conceptos básicos de los principios de la electrónica, aplicándolos a un circuito eléctrico, y calculando sus tipos de valores.
+Aprender a localizar fallas eléctricas mediante, el análisis, planificación y medición en un circuito defectuoso.
 
-Establecer medidas de seguridad, al trabajar con unidades eléctricas, y tener claro sus definiciones.
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
@@ -211,27 +210,49 @@ P = VI
 
 **3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**
 
+[![3.jpg](https://i.postimg.cc/yYbzNfhg/3.jpg)](https://postimg.cc/QH1z4Jyh)
+
 **5. ¿A cuántos watts equivalen 1000 J en 50 ms?**
+
+[![5.jpg](https://i.postimg.cc/FKt5y7Bh/5.jpg)](https://postimg.cc/rD9PcFTH)
 
 **7. Convierta las siguientes cantidades en megawatts:**
 
+[![7.jpg](https://i.postimg.cc/rFzv7168/7.jpg)](https://postimg.cc/LnKC1Z67)
+
 **9. Convierta las siguientes cantidades en microwatts:**
+
+[![9.jpg](https://i.postimg.cc/3Nqb3qM3/9.jpg)](https://postimg.cc/kRxycfXH)
 
 **11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuán tos joules de energía consume?**
 
+[![11.jpg](https://i.postimg.cc/W4VYpryq/11.jpg)](https://postimg.cc/K19DJKxm)
+
 **13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**
 
+[![13.jpg](https://i.postimg.cc/L5GvcZfX/13.jpg)](https://postimg.cc/kRFx8GT3)
+
 **15. Convierta 6700 watts-segundos en kWh.**
+
+[![15.jpg](https://i.postimg.cc/TPQ0RsmB/15.jpg)](https://postimg.cc/B8LHpMmC)
 
 **SECCIÓN 4–2 POTENCIA EN UN CIRCUITO ELÉCTRICO**
 
 **17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**
 
+[![17.jpg](https://i.postimg.cc/fTX6wwbF/17.jpg)](https://postimg.cc/w7qW2YLc)
+
 **19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?**
 
-**21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 uA.**
+[![19.jpg](https://i.postimg.cc/d00HTvqJ/19.jpg)](https://postimg.cc/TKZqZzLs)
+
+**21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 uA
+
+[![21.jpg](https://i.postimg.cc/ZKFV70nT/21.jpg)](https://postimg.cc/Ln5th9j7)
 
 **23. Se conecta un resistor de 56 ohms entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?**
+
+[![23.jpg](https://i.postimg.cc/DzDgJXjc/23.jpg)](https://postimg.cc/B8TDRXG8)
 
 **25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 ohms.**
 
@@ -239,24 +260,36 @@ P = VI
 
 (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto ma yor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
 
+[![25.jpg](https://i.postimg.cc/CxxHcN9N/25.jpg)](https://postimg.cc/N5ZHM1s9)
+
 
 **SECCIÓN 4–3 CLASIFICACIONES DE POTENCIA EN RESISTORES**
 
 **27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplica ción en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?**
 
+[![27.jpg](https://i.postimg.cc/fLmxVg0w/27.jpg)](https://postimg.cc/0M563nf3)
+
 **SECCIÓN 4–5 FUENTES DE POTENCIA**
 
 **29. Una carga de 50 ohms utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?**
 
+[![29.jpg](https://i.postimg.cc/sgx7Y2ZH/29.jpg)](https://postimg.cc/dhMhvw6G)
+
 **31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**
+
+[![31.jpg](https://i.postimg.cc/xTxb1SFv/31.jpg)](https://postimg.cc/0bSNVhvj)
 
 **33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?**
 
+[![33.jpg](https://i.postimg.cc/tJr7JhDq/33.jpg)](https://postimg.cc/RJHvbJjy)
+
 **35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?**
+
+[![35.jpg](https://i.postimg.cc/tCMYHNYD/35.jpg)](https://postimg.cc/8jL1RWdr)
 
 **37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de efi ciencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?**
 
-
+[![37.jpg](https://i.postimg.cc/bJpvR6BY/37.jpg)](https://postimg.cc/v12MYvyC)
 
 **4. VIDEO**
 
@@ -264,13 +297,14 @@ https://youtu.be/oABs34S9enI
 
 **5. CONCLUSIONES**
 
-Al concluir el informe, se tuvo en consideración los prefijos que en sí resultan muy importantes, incluso para las fórmulas, debido que las conversiones sean grandes o pequeñas, si no se realizan de forma correcta, puede presentar un gran error en el circuito al momento de calcular sus unidades.
+Se puede concluir que un circuito eléctrico, puede ser muy complejo aun siendo, muy pequeño y de excasos componente eléctricos, debido a que al realizar mediciones o cálculos, se pueden medir la eficiencia de cada uno de ellos, calculando su porcentaje de error, y ver su comportamiento al aumentar y disminuir cada magnitud física.
 
-Al igual que los instrumentos de medición, ya que tienen sus características y complejidad, al momento de medir algún valor eléctrico, hay que tomar en cuenta, como y donde hacerlo, como también las medidas de seguridad, ya que al tener el conocimiento de por ejemplo la corriente, y la conductancia del cuerpo, resulta ser un gran conductor de electricidad, pudiendo provocar graves lesiones.
+Tambien algo importante, que tener en cuenta para no dañar los componentes eléctricos, es siempre verificar que potencia puede aguantar, es decir, si colocamos una potencia mayor a la potencia nominal que este componente tiene, se calentará en exceso, y se terminará dañanado, variando las unidades físicas del circuito, y no funcionanddo correctamente.
 
 **6. BIBLIOGRAFÍA**
 
-Fernández, J. L. (02 de Febrero de 2022). FISICALAB. Obtenido de https://www.fisicalab.com/apartado/circuitos-electricos
+FISICA. (09 de Noviembre de 2022). Geo Enciclopedia. Obtenido de https://www.geoenciclopedia.com/ley-de-ohm/
 
-Paguayo. (18 de Julio de 2019). MCI Capacitacion. Obtenido de Voltaje, Corriente, Resistencia, y Ley de Ohm: https://cursos.mcielectronics.cl/2019/06/18/voltaje-corriente-resistencia-y-ley-de-ohm/
+TODO SOBRE CIRCUITOS. (10 de Noviembre de 2022). TODO SOBRE CIRCUITOS. Obtenido de https://www.circuitos-electricos.com/potencia-electrica/#:~:text=La%20potencia%20el%C3%A9ctrica%2C%20consiste%20en%20la%20cantidad%20de,o%20entregada%2C%20seg%C3%BAn%2C%20el%20caso%20que%20se%20presente.
+
 
