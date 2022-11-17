@@ -17,14 +17,15 @@ Establecer medidas de seguridad, al trabajar con unidades eléctricas, y tener c
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
+https://www.canva.com/design/DAFSK2oVYWc/fvQj8mymtom0cEb4UhcZrw/view?utm_content=DAFSK2oVYWc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
+**RESUMEN CAPITULO - 3**
 
-**RESUMEN CAPITULO - 1**
+[![1.png](https://i.postimg.cc/pr08MpT3/1.png)](https://postimg.cc/RJHqcCwT)
 
+**RESUMEN CAPITULO - 4**
 
-
-**RESUMEN CAPITULO - 2**
-
+[![2.png](https://i.postimg.cc/tRDFxm5D/2.png)](https://postimg.cc/rz0d6j7t)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
