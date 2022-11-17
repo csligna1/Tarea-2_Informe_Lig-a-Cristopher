@@ -166,7 +166,90 @@ V=I*R
 
 [![37.jpg](https://i.postimg.cc/j5Lpyzhg/37.jpg)](https://postimg.cc/S2b1hY3C)
 
+
+
 **EJERCICIOS CAPITULO - 2**
+
+**EXAMEN RÁPIDO DE DINÁMICA DE CIRCUITOS**
+
+**1. Si la corriente a través de un resistor fijo cambia de 10 mA a 12 mA, la potencia en el resistor**
+
+**(a) se incrementa** (b) disminuye (c) no cambia
+
+**3. Un resistor variable tiene 5 V a través de él. Si usted reduce la resistencia, la potencia en el resistor**
+
+**(a) se incrementa** (b) disminuye (c) no cambia
+
+**5. Si la resistencia de una carga conectada a una batería se incrementa, la cantidad de tiempo que la bate ría puede suministrar corriente**
+
+**(a) se incrementa** (b) disminuye (c) no cambia
+
+**7. Si la corriente que una batería suministra a una carga se incrementa, la duración de la batería**
+
+(a)	aumenta **(b) disminuye** (c) no cambia
+
+**CONSULTE LA FIGURA 4-11**
+
+**9. Si el voltaje de salida de la fuente de potencia se incrementa, la potencia suministrada a la carga constante**
+
+**(a) aumenta** (b) disminuye (c) no cambia
+
+**11. Con un voltaje constante de salida, si la resistencia de la carga se incrementa, la potencia en la carga**
+
+(a)	se incrementa **(b) disminuye** (c) no cambia
+
+
+**SECCIÓN 4–1 ENERGÍA Y POTENCIA**
+
+**1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere**
+
+**3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?**
+
+**5. ¿A cuántos watts equivalen 1000 J en 50 ms?**
+
+**7. Convierta las siguientes cantidades en megawatts:**
+
+**9. Convierta las siguientes cantidades en microwatts:**
+
+**11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuán tos joules de energía consume?**
+
+**13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?**
+
+**15. Convierta 6700 watts-segundos en kWh.**
+
+**SECCIÓN 4–2 POTENCIA EN UN CIRCUITO ELÉCTRICO**
+
+**17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?**
+
+**19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?**
+
+**21. Calcule la potencia disipada por un resistor de 10 kÆ que transporta 100 uA.**
+
+**23. Se conecta un resistor de 56 ohms entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?**
+
+**25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 ohms.**
+
+(a) ¿Cuánta energía se utiliza en dos minutos? 
+
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto ma yor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+
+
+**SECCIÓN 4–3 CLASIFICACIONES DE POTENCIA EN RESISTORES**
+
+**27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplica ción en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?**
+
+**SECCIÓN 4–5 FUENTES DE POTENCIA**
+
+**29. Una carga de 50 ohms utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?**
+
+**31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?**
+
+**33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?**
+
+**35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?**
+
+**37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de efi ciencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?**
+
 
 
 **4. VIDEO**
